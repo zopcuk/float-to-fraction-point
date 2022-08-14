@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1655900943 source:c:\users\acer\desktop\c_project\float-to-fraction-point\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+
